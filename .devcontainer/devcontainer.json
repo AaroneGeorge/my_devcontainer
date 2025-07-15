@@ -1,6 +1,6 @@
 {
   // For format details, see https://aka.ms/devcontainer.json.
-  "name": "TRG's DevContainer",
+  "name": "my_s3cure_c0nta1ner",
 
   // You can use image or directly use a Dockerfile or Docker Compose file.
   // More info: https://containers.dev/guide/dockerfile
